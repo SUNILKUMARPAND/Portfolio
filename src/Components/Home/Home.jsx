@@ -13,7 +13,7 @@ const  Home = () => {
                 <h1>Sunil Kumar Panda</h1>
                 <h5 className='text-light'>Frontend Developer</h5>
                 <div className='cta'>
-                    <a href="https://qrr.to/12041ae4" download className='btn'>
+                    <a href="https://pdflink.to/2c44cdb0/" download className='btn'>
                         Download CV
                     </a>
                     <a href="#contact" className='btn btn-primary'>
