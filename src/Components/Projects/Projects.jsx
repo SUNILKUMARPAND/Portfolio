@@ -1,5 +1,5 @@
 
-import Food from '/Images/food.png'
+import Food from '/Images/chat.png'
 import Weather from '/Images/weather.png'
 import Quiz from '/Images/quiz.png'
 import './Project.css'
@@ -36,13 +36,13 @@ const Projects = () => {
             </article>
             <article className='project_item'>
                 <div className="project_item_image">
-                    <img src={Food} alt="" />
+                    <img src={Chat} alt="" />
                 </div>
-                <h3>Food-App</h3>
+                <h3>Chat-App</h3>
                 <small className='text-light'>Frontend</small>
                 <div className="project_item_btn">
-                    <a href="https://github.com/SUNILKUMARPAND/Food-app" className='btn'>GitHub</a>{"   "}
-                    <a href="https://imaginative-peony-55c592.netlify.app/" className='btn'>Demo</a>
+                    <a href="https://github.com/SUNILKUMARPAND/chat-app" className='btn'>GitHub</a>{"   "}
+                    <a href="https://sunilkumarchat-app.netlify.app/" className='btn'>Demo</a>
                 </div>
             </article>
         </div>
