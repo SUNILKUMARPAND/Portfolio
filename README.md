@@ -4,17 +4,17 @@ A personal portfolio website built using React to showcase my projects, skills, 
 
 🚀 Features
 
-Responsive design for all devices
-Project showcase section
-About me and skills overview
-Contact form / social links
+Responsive design for all devices,
+Project showcase section,
+About me and skills overview,
+Contact form / social links &
 Clean and reusable React components
 
 🛠️ Tech Stack
 
-React.js
-JavaScript (ES6+)
-HTML5 & CSS3
+React.js,
+JavaScript (ES6+),
+HTML5 & CSS3 &
 (Optional: Tailwind CSS / Bootstrap)
 
 📂 Purpose 
